@@ -75,7 +75,7 @@ Filter文件夹中收集了常用的过滤规则。
 
 ## 5.配置文件
 
-如果你是小白用户，欢迎下载我的配置文件：https://raw.githubusercontent.com/Hedilict/QuantumultX/master/Quantumult.conf
+如果你是小白用户，欢迎下载我的配置文件：https://raw.githubusercontent.com/darkchaox/QuantumultX/master/Quantumult.conf
 
 在QuantumultX的【配置文件】板块点击【下载】，输入上面的地址后点击【确定】即可。
 
@@ -90,8 +90,6 @@ Filter文件夹中收集了常用的过滤规则。
 >配置文件中提供了三个解锁网易云音乐的节点，以及网易云音乐的分流规则：https://raw.githubusercontent.com/Hedilict/QuantumultX/master/Filter/NetEaseCloudMusic.list ，配置文件中均已配置好。最后一步还需要安装网易云音乐的证书：https://raw.githubusercontent.com/nondanee/UnblockNeteaseMusic/master/ca.crt 即可使用。
 
 
-推荐✈️：
-https://beta.pcr.cy/auth/register?code=tEd8 ，L6-IPLC-0.01倍率。
 
 
 >同步库地址：
