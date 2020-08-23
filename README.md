@@ -1,14 +1,11 @@
 # QuantumultX
 
->此项目fork了nzw9314整理的脚本。nzw9314恢复更新啦！https://github.com/nzw9314/QuantumultX/tree/master
-
-只是搬运和同步更新大佬脚本
-
-不负责维护脚本
+>此项目fork了Hedilict的项目：https://github.com/Hedilict/QuantumultX，并更新了WPS脚本
+(Hedilict是fork nzw9314整理的脚本。https://github.com/nzw9314/QuantumultX/tree/master)
 
 只测试自用脚本，其他大部分脚本未测试可用性。由于TF版本的Quantumult X已支持调用远程脚本功能，该项目仅对支持商店版的Quantumult X脚本进行更新。
 
-圈x新手入门教程：https://www.notion.so/Quantumult-X-nzw9314-33eb7b2697994205a8d18178f595bc6b
+圈x新手入门教程：https://www.blackcat.monster/index.php/2020/06/10/%E4%BD%BF%E7%94%A8quantumult-x%E5%AE%9E%E7%8E%B0%E7%BF%BB%E5%A2%99%E3%80%81%E5%B9%BF%E5%91%8A%E5%B1%8F%E8%94%BD%E5%8F%8A%E8%84%9A%E6%9C%AC%E8%B0%83%E7%94%A8/
 
 
 
@@ -20,10 +17,9 @@
 或者 我的iPhone/QuantumultX/Scripts/nzw9314
 
 #### 2⃣️用working copy挂载我的库:
-库地址：https://github.com/Hedilict/QuantumultX.git
+库地址：https://github.com/darkchaox/QuantumultX.git
 将脚本同步到本地
 
-(挂载教程: https://www.notion.so/iCloud-Github-948f19e65e1a47b3b468451491a3f34b)
 
 #### 3⃣️订阅我的[rewrite_remote]
 ①.🎉 Js_local_WorkingCopy.conf(本地脚本订阅) : 
